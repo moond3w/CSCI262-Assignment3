@@ -1,0 +1,28 @@
+======== BASELINE ANALYSIS ========
+Logins Mean : 4.20
+Logins Std  : 1.89
+
+Time online Mean : 136.81
+Time online Std  : 25.98
+
+Emails sent Mean : 10.80
+Emails sent Std  : 1.40
+
+Emails opened Mean : 13.60
+Emails opened Std  : 4.20
+
+Emails deleted Mean : 7.00
+Emails deleted Std  : 2.72
+
+
+======== DAILY TOTALS ========
+Day 1 Total : 159.90
+Day 2 Total : 181.83
+Day 3 Total : 208.09
+Day 4 Total : 157.10
+Day 5 Total : 169.33
+Day 6 Total : 204.61
+Day 7 Total : 180.65
+Day 8 Total : 111.37
+Day 9 Total : 150.89
+Day 10 Total : 200.30

@@ -1,0 +1,70 @@
+Day:1
+Logins:6
+Time online:130.90
+Emails sent:10
+Emails opened:6
+Emails deleted:7
+
+Day:2
+Logins:4
+Time online:149.83
+Emails sent:11
+Emails opened:14
+Emails deleted:3
+
+Day:3
+Logins:4
+Time online:167.09
+Emails sent:8
+Emails opened:20
+Emails deleted:9
+
+Day:4
+Logins:6
+Time online:126.10
+Emails sent:11
+Emails opened:10
+Emails deleted:4
+
+Day:5
+Logins:5
+Time online:124.33
+Emails sent:11
+Emails opened:19
+Emails deleted:10
+
+Day:6
+Logins:7
+Time online:159.61
+Emails sent:12
+Emails opened:16
+Emails deleted:10
+
+Day:7
+Logins:2
+Time online:147.65
+Emails sent:11
+Emails opened:12
+Emails deleted:8
+
+Day:8
+Logins:2
+Time online:76.37
+Emails sent:13
+Emails opened:17
+Emails deleted:3
+
+Day:9
+Logins:5
+Time online:120.89
+Emails sent:9
+Emails opened:10
+Emails deleted:6
+
+Day:10
+Logins:1
+Time online:165.30
+Emails sent:12
+Emails opened:12
+Emails deleted:10
+

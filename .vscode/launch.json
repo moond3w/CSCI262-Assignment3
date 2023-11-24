@@ -1,0 +1,29 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "IDS",
+            "request": "launch",
+            "mainClass": "IDS",
+            "projectName": "csci261_a3_6439e418",
+            "args": "Events.txt Stats.txt 10"
+        },
+        {
+            "type": "java",
+            "name": "TestSplit",
+            "request": "launch",
+            "mainClass": "TestSplit",
+            "projectName": "csci261_a3_6439e418"
+        }
+    ]
+}
